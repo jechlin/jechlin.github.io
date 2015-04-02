@@ -1,5 +1,3 @@
 jechlin.github.io
 =================
-my less than wonderful readme
-
-zzz
+my wonderful readme
